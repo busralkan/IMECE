@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">İMECE</string>
+    <string name="etNo">Müşteri No veya TCKN*</string>
+    <string name="etPassword">Şifre*</string>
+    <string name="cbRememberMe">Beni Hatırla.</string>
+    <string name="tvForgotPassword">Şifremi Unuttum</string>
+    <string name="tvMessage">İşlemlerinizi Online Şube üzerinden kolayca yapabilirsiniz.</string>
+    <string name="tvMessage2">Online işlem şifreniz ile giriş yapabilirsiniz.</string>
+    <string name="bttnLogIn">Giriş Yap</string>
+    <string name="bttnReference">Referansım Var</string>
+    <string name="tvMessage3">Sizlere yardımcı olmak için hazırız :)</string>
+    <string name="tvMessage4">Hemen arayın: 444 1 999</string>
+    <string name="tvMessage1Reference">İmece Aliesine Hoş Geldiniz.</string>
+    <string name="tvMessage2Reference">Bu alanda müşterilerimiz tarafından ailemize yeni
+        katılan katılımcılarımız kayıtlarını tamamlayabilir. Aşağıdaki alana referansınız tarafından
+        sisteme kayıt edilen telefon numaranızı giriniz.</string>
+    <string name="etGSM">GSM*</string>
+    <string name="bttnDevam">Devam</string>
+    <string name="bttnBack">Geri</string>
+    <string name="imgDescription">imece</string>
+    <string name="iconDescription">customerServices</string>
+    <string name="tvMessageForgetPassword1">Giriş yaparken sorun mu yaşıyorsunuz?</string>
+    <string name="tvMessageForgetPassword2">Online işlem şifrenizi unuttuysanız
+        veya yeni şifre alacaksanız formu doldurunuz, şifreniz size SMS ile iletilecektir.</string>
+    <string name="etPhone">Cep Telefonu*</string>
+    <string name="bttnNewPassword">Yeni Şifre Gönder</string>
+
+
+</resources>
